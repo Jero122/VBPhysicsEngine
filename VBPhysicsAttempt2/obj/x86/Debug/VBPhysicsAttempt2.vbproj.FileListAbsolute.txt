@@ -1,0 +1,117 @@
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojResolveAssemblyReference.cache
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Form1.resources
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.cache
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.CoreCompileInputs.cache
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+G:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.CircleTest.resources
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.CircleTest.resources
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Form1.resources
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojAssemblyReference.cache
+D:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.CoreCompileInputs.cache
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojAssemblyReference.cache
+E:\VBPhysics\PhysicsEngineAttempt2\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.CoreCompileInputs.cache
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojAssemblyReference.cache
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.cache
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.CoreCompileInputs.cache
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt2 - Copy\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojResolveAssemblyReference.cache
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+D:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojAssemblyReference.cache
+E:\VBPhysics\PhysicsEngineAttempt3\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.CoreCompileInputs.cache
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.cache
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojResolveAssemblyReference.cache
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+D:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.TutorialForm.resources
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.TutorialForm.resources
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojAssemblyReference.cache
+E:\VBPhysics\PhysicsEngineAttempt4 - Encapsulation\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.CoreCompileInputs.cache
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.TutorialForm.resources
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.pdb
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.xml
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojResolveAssemblyReference.cache
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.SimForm.resources
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.Resources.resources
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.TutorialForm.resources
+D:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbproj.GenerateResource.Cache
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.MathsForm.resources
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.exe.manifest
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\bin\Debug\VBPhysicsAttempt2.application
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.exe.manifest
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.application
+E:\VBPhysics\PhysicsEngineAttempt5 - A new way\VBPhysicsAttempt2\VBPhysicsAttempt2\obj\x86\Debug\VBPhysicsAttempt2.vbprojResolveAssemblyReference.cache
