@@ -1,2 +1,2 @@
 # VBPhysicsEngine
-A basic Physics engine
+A basic physics engine
