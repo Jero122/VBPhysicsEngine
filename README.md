@@ -4,6 +4,16 @@ A basic 2D Physics and Collision Engine written with VB for my A-Level project
 
 ![adfad](https://i.gyazo.com/a29cab213c8de0f5ab4b27d165515ca9.png9)
 
+## Disclaimer
+**This is by no means a production ready engine.** It was **only created for an A-Level Computer Science** project since I was interested in physics simulation. Using this for a scientific purpose or to create a game is not advised as the approach taken was quite **inefficient**, however it was suitable for an A-Level project. 
+Having more than a few objects might start to create lag. The main issue is actually updating the table displaying the data of each object in the sample project.
+
+My programming ability has vastly improved since I first created this engine in 2017/2018. There are a lot of things that I question when I look at them right now. Rewriting this engine in C++, with more efficient techniques, is on my TODO list.
+
+## Running
+The sample project is already built as an executable: VBPhysics.exe.
+To build the project, just open the .sln file.
+
 ## Features
 - **Circle to circle collisions**
 	- Collision Detection
@@ -18,11 +28,14 @@ A basic 2D Physics and Collision Engine written with VB for my A-Level project
 - **Semi- Explicit Euler Integration implemented**
 - **Sample project**
 
-## Planned Features
-- **AABB (rectangle) to AABB colission detection and resolution:**
-Axis aligned bounding  collisions were not required by my project client hence they were not included in the engine. However, this is not too difficult to achieve and will be implemented once I have time.
-- **Oriented  bounded box collisions:**
-The same as rotating rectangles. I wanted to do this when writing the engine but I lacked both the mathematical knowledge and time.
+## Limitations 
+- **No Broadphase**
+The engine lacks broadphase collisions, hence a lot of particles  will create lag. The engine was not designed to deal with lots of particles.
+- **No QuadTree**
+The engine also lacks any kind of spatial structure, so no matter how many spread out the particles are, each particle will test every other particle for collisions.
+- **No Oriented Bounding Boxes**
+This was simply out of scope for an A-level project, which was assessed purely on the code and not maths.
+
 
 ## Sample Project
 
@@ -37,15 +50,14 @@ It is also able to simulate the ideal gas laws, by setting the CoR to and gravit
 ## Using the Engine
 ### Creating a Rectangle:
 ```vbnet
-Dim obj As RectangleParticle = New RectangleParticle(x, y, WIDTH, HEIGHT, MASS, ISFIXED, isSPAWNING, COLOR)
+Dim obj As RectangleParticle = New RectangleParticle(X, Y, WIDTH, HEIGHT, MASS, ISFIXED, isSPAWNING, COLOR)
 Simulator.particles.add(obj)
 ```
 ### Creating a Circle
 ```vbnet
-Dim obj As CircleParticle =  Simulator.particles.Add(New CircleParticle(X, Y, RADIUS, MASS, ISFIXED, isSPAWNING, COLOR)
+Dim obj As CircleParticle =  New CircleParticle(X, Y, RADIUS, MASS, ISFIXED, isSPAWNING, COLOR)
 Simulator.particles.add(obj)
 ```
-Unfortunately no constructor overloading exists currently as I did not know about this at the time.
 
 ``` isSPAWNING ``` is whether the particle is active or not, true = not active.
 
@@ -70,10 +82,3 @@ The X and Y components can be accessed via the properties ``xCord`` and ``yCord`
 - **Magnitude (Vector, Vector)** : Finds the distance between the two Vectors (*Should have been called Distance*)
 - **MagnitudeSquared(Vector)/(Vector, Vector)**: Returns the squared value of the magnitude (to calling the square root method too many times)
 - **Normalise(Vector)** : Returns a vector with magnitude a magnitude of 1 while maintaining the same direction.
-
-
-## Disclaimer
-**This is by no means a production ready engine.** It was **only created for an A-Level Computer Science** project since I was interested in physics simulation. Using this for a scientific purpose or to create a game is not advised as the approach taken was quite **inefficient**, however it was acceptable for a pre-University computer science student. 
-Having more than a few objects might start to create lag. The main issue is actually updating the table displaying the data of each object in the sample project.
-
-My programming ability have vastly improved since I first created this engine almost 2 years ago. There are a lot of things that I question when I look at them right now. I am planning to port the engine to C# or Java when I have time next with an improved architecture and more efficient techniques. However, I am still proud of what I manged to accomplish  as an A-Level student at the time.
